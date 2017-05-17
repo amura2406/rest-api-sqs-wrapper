@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gattling-test/gattling-test.iml" filepath="$PROJECT_DIR$/gattling-test/gattling-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/rest-api-sqs-wrapper.iml" filepath="$PROJECT_DIR$/rest-api-sqs-wrapper.iml" />
     </modules>
   </component>
